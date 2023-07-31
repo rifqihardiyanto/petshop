@@ -1,0 +1,20 @@
+[26-Aug-2022 08:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/rifqipet/public_html/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rifqipet/public_html/admin/index.php on line 9
+[26-Aug-2022 08:24:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/rifqipet/public_html/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rifqipet/public_html/admin/index.php on line 9
+[26-Aug-2022 08:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/rifqipet/public_html/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rifqipet/public_html/admin/index.php on line 9
+[26-Aug-2022 10:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/rifqipet/public_html/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rifqipet/public_html/admin/index.php on line 9
+[26-Aug-2022 10:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/rifqipet/public_html/admin/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rifqipet/public_html/admin/index.php on line 9
